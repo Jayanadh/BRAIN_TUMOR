@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 This project leverages deep learning and medical imaging analysis to detect brain tumors from MRI scans. It provides a Jupyter Notebook pipeline for preprocessing, model training, evaluation, and visualization.
 
@@ -88,9 +88,3 @@ google-colab
 
 Contributions are welcome!  
 Please open an issue or submit a pull request for suggestions and improvements.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
